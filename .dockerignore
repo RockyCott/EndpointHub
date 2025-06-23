@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+.venv/
+model/
+*.npy
+*.bin
+.git
+tests/
+*.log
+*.csv
+*.tar.gz
+*.whl
+node_modules/

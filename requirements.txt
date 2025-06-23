@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pymongo
+faiss-cpu
+sentence-transformers
+nltk
+numpy<2
+python-multipart
+pydantic-settings
